@@ -1,0 +1,242 @@
+{
+  "01-welding-photo": {
+    "width": 1536,
+    "height": 1024,
+    "masterBytes": 3194982,
+    "variants": [
+      {
+        "file": "enhanced/01-welding-photo-768.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 559998
+      },
+      {
+        "file": "enhanced/01-welding-photo-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2101638
+      }
+    ],
+    "provenance": "ImageGen recreation of the original reference; not documentary footage."
+  },
+  "02-steel-fabrication": {
+    "width": 1536,
+    "height": 1024,
+    "masterBytes": 3258825,
+    "variants": [
+      {
+        "file": "enhanced/02-steel-fabrication-768.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 541460
+      },
+      {
+        "file": "enhanced/02-steel-fabrication-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2131270
+      }
+    ],
+    "provenance": "ImageGen recreation of the original reference; not documentary footage."
+  },
+  "03-workshop": {
+    "width": 1536,
+    "height": 1024,
+    "masterBytes": 3192306,
+    "variants": [
+      {
+        "file": "enhanced/03-workshop-768.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 513852
+      },
+      {
+        "file": "enhanced/03-workshop-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1998700
+      }
+    ],
+    "provenance": "ImageGen recreation of the original reference; not documentary footage."
+  },
+  "05-team-lineup": {
+    "width": 1536,
+    "height": 1024,
+    "masterBytes": 3153693,
+    "variants": [
+      {
+        "file": "enhanced/05-team-lineup-768.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 570402
+      },
+      {
+        "file": "enhanced/05-team-lineup-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2134086
+      }
+    ],
+    "provenance": "ImageGen recreation of the original reference; not documentary footage."
+  },
+  "06-workforce-gathering": {
+    "width": 1536,
+    "height": 1024,
+    "masterBytes": 2846893,
+    "variants": [
+      {
+        "file": "enhanced/06-workforce-gathering-768.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 492514
+      },
+      {
+        "file": "enhanced/06-workforce-gathering-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1875442
+      }
+    ],
+    "provenance": "ImageGen recreation of the original reference; not documentary footage."
+  },
+  "09-samalaju": {
+    "width": 1536,
+    "height": 1024,
+    "masterBytes": 3014138,
+    "variants": [
+      {
+        "file": "enhanced/09-samalaju-768.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 500162
+      },
+      {
+        "file": "enhanced/09-samalaju-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1976370
+      }
+    ],
+    "provenance": "ImageGen recreation of the original reference; not documentary footage."
+  },
+  "10-site": {
+    "width": 1536,
+    "height": 1024,
+    "masterBytes": 2968412,
+    "variants": [
+      {
+        "file": "enhanced/10-site-768.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 538710
+      },
+      {
+        "file": "enhanced/10-site-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2007622
+      }
+    ],
+    "provenance": "ImageGen recreation of the original reference; not documentary footage."
+  },
+  "12-site-update": {
+    "width": 1536,
+    "height": 1024,
+    "masterBytes": 2968538,
+    "variants": [
+      {
+        "file": "enhanced/12-site-update-768.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 581544
+      },
+      {
+        "file": "enhanced/12-site-update-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2083576
+      }
+    ],
+    "provenance": "ImageGen recreation of the original reference; not documentary footage."
+  },
+  "company-meeting": {
+    "width": 1536,
+    "height": 1024,
+    "masterBytes": 2584421,
+    "variants": [
+      {
+        "file": "enhanced/company-meeting-768.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 427494
+      },
+      {
+        "file": "enhanced/company-meeting-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1662556
+      }
+    ],
+    "provenance": "ImageGen recreation of the original reference; not documentary footage."
+  },
+  "company-site-briefing": {
+    "width": 1536,
+    "height": 1024,
+    "masterBytes": 3023377,
+    "variants": [
+      {
+        "file": "enhanced/company-site-briefing-768.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 568294
+      },
+      {
+        "file": "enhanced/company-site-briefing-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2115626
+      }
+    ],
+    "provenance": "ImageGen recreation of the original reference; not documentary footage."
+  },
+  "manpower-industrial-pipework": {
+    "width": 1536,
+    "height": 1024,
+    "masterBytes": 3295663,
+    "variants": [
+      {
+        "file": "enhanced/manpower-industrial-pipework-768.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 645088
+      },
+      {
+        "file": "enhanced/manpower-industrial-pipework-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2383496
+      }
+    ],
+    "provenance": "ImageGen recreation of the original reference; not documentary footage."
+  },
+  "manpower-onshore-site": {
+    "width": 1536,
+    "height": 1024,
+    "masterBytes": 3470762,
+    "variants": [
+      {
+        "file": "enhanced/manpower-onshore-site-768.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 640300
+      },
+      {
+        "file": "enhanced/manpower-onshore-site-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2366370
+      }
+    ],
+    "provenance": "ImageGen recreation of the original reference; not documentary footage."
+  }
+}

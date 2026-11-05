@@ -48,7 +48,7 @@ Canonical URLs, social image URLs, robots.txt and sitemap.xml use the actual req
 
 - Self-hosted Plus Jakarta Sans; Georgia for serif captions. The raster designs have no font metadata, so the sans face is a visual match.
 - Fluid desktop typography: 18px minimum root, 33.6px at 1920px and 38px at 2560px. Mobile main body copy is 18px.
-- Original photographs, extracted original globe, ImageGen network background and detailed service illustrations.
+- AI-enhanced photo recreations, extracted original globe, ImageGen network background and detailed service illustrations.
 - Hero parallax, hover zoom, illustrated icon motion, scroll reveals and progressive browser page transitions. Reduced-motion preferences disable these animations. Unsupported view transitions fall back to normal navigation.
 - Keyboard menu, Escape dismissal, visible focus, accessible filter status, persistent field labels and native validation.
 
@@ -58,4 +58,4 @@ Business details, metadata, source links and FAQs live in `src/content.mjs`. Pag
 
 `docs/seo-research.md` contains keyword and competitor research. `docs/design-audit.md` and `docs/visual-review.md` document the reference comparison and known intentional differences. `design-references/` holds the approved artwork. Photo provenance and ImageGen prompts are in `docs/`.
 
-Original JPEG photos are copied byte-for-byte where smaller than lossless transcodes. Generated assets use lossless WebP. Logo/icons are resized for their display size before lossless encoding; full-resolution source assets are supplied separately in the handoff. This does not restore detail missing from the TikTok captures. There is no claim of 100% pixel equivalence or guaranteed search/AI rankings.
+All 12 displayed photos and video posters now use individually recreated ImageGen masters at 1536 × 1024. Responsive 768px and 1536px lossless WebP variants preserve the exact pixels at each exported size; smaller variants are intentionally resized. The full-size exports are pixel-verified against the PNG masters. These are AI interpretations, not restored documentary evidence or exact identity reproductions. The original source links remain available. Earlier JPEG files are retained for provenance. Backgrounds and icons retain their existing lossless exports. See `docs/image-quality-upgrade.md` and `src/enhanced-media.json`. There is no claim of 100% pixel equivalence or guaranteed search/AI rankings.
