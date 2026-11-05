@@ -34,7 +34,7 @@ test('redirects preserve enquiry query strings',async()=>{
   assert.equal(res.status,308);assert.equal(res.headers.get('Location'),'https://jf.example/contact?service=construction');
 });
 test('sitemap and robots follow the actual origin; unsupported methods rejected',async()=>{
-  const map=sitemap('https://jf.example');assert.equal((map.match(/<loc>/g)||[]).length,6);
+  const map=sitemap('https://jf.example');assert.equal((map.match(/<loc>/g)||[]).length,paths.length);
   const robots=await worker.fetch(new Request('https://jf.example/robots.txt'),{});assert((await robots.text()).includes('https://jf.example/sitemap.xml'));
   const response=await worker.fetch(new Request('https://jf.example/contact',{method:'POST'}),{});assert.equal(response.status,405);
 });

@@ -238,5 +238,24 @@
       }
     ],
     "provenance": "ImageGen recreation of the original reference; not documentary footage."
+  },
+  "blog-planning": {
+    "width": 1536,
+    "height": 1024,
+    "variants": [
+      {
+        "file": "enhanced/blog-planning-768.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 486766
+      },
+      {
+        "file": "enhanced/blog-planning-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1600296
+      }
+    ],
+    "provenance": "ImageGen illustration matching the approved blog design; not documentary evidence."
   }
 }

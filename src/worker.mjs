@@ -1,4 +1,5 @@
-export const paths = ['/', '/company', '/manpower', '/updates', '/our-work', '/contact'];
+import {blogPaths} from './blog.mjs';
+export const paths = ['/', '/company', '/manpower', '/updates', '/our-work', '/contact', ...blogPaths];
 export function canonicalPath(path) {
   if (path === '/index.html') return '/';
   return path.replace(/\/index\.html$/, '').replace(/\.html$/, '').replace(/\/+$/, '') || '/';

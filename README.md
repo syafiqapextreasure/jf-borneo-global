@@ -1,6 +1,6 @@
 # JF Borneo Global
 
-Six-page Corporate Ocean website based on the approved ImageGen designs, with an added Construction manpower service. Built as crawlable static HTML with a small Cloudflare Worker for clean URLs, canonical origin replacement, sitemap and security headers. No database or API key is needed.
+Seventeen-page Corporate Ocean website based on the approved ImageGen designs, with an added Construction manpower service. Built as crawlable static HTML with a small Cloudflare Worker for clean URLs, canonical origin replacement, sitemap and security headers. No database or API key is needed.
 
 ## Run locally
 
@@ -41,6 +41,7 @@ Canonical URLs, social image URLs, robots.txt and sitemap.xml use the actual req
 - `/updates` — selected original TikTok posts.
 - `/our-work` — filterable seven-scene gallery with original source links.
 - `/contact` — labelled enquiry form, WhatsApp handoff and office addresses.
+- `/blog` — searchable, filterable listing with pagination and 10 full guides at `/blog/{slug}`.
 
 `.html` and trailing-slash page URLs redirect to their clean equivalents. Unknown URLs return a real 404. Form submission only opens a prepared WhatsApp message for the visitor to review; this website does not send, store or email enquiries.
 
@@ -58,4 +59,5 @@ Business details, metadata, source links and FAQs live in `src/content.mjs`. Pag
 
 `docs/seo-research.md` contains keyword and competitor research. `docs/design-audit.md` and `docs/visual-review.md` document the reference comparison and known intentional differences. `design-references/` holds the approved artwork. Photo provenance and ImageGen prompts are in `docs/`.
 
-All 12 displayed photos and video posters now use individually recreated ImageGen masters at 1536 × 1024. Responsive 768px and 1536px lossless WebP variants preserve the exact pixels at each exported size; smaller variants are intentionally resized. The full-size exports are pixel-verified against the PNG masters. These are AI interpretations, not restored documentary evidence or exact identity reproductions. The original source links remain available. Earlier JPEG files are retained for provenance. Backgrounds and icons retain their existing lossless exports. See `docs/image-quality-upgrade.md` and `src/enhanced-media.json`. There is no claim of 100% pixel equivalence or guaranteed search/AI rankings.
+The 12 original displayed photos and video posters now use individually recreated ImageGen masters at 1536 × 1024. Responsive 768px and 1536px lossless WebP variants preserve the exact pixels at each exported size; smaller variants are intentionally resized. The full-size exports are pixel-verified against the PNG masters. These are AI interpretations, not restored documentary evidence or exact identity reproductions. The original source links remain available. Earlier JPEG files are retained for provenance. Backgrounds and icons retain their existing lossless exports. See `docs/image-quality-upgrade.md` and `src/enhanced-media.json`. There is no claim of 100% pixel equivalence or guaranteed search/AI rankings.
+
