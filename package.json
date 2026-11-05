@@ -1,0 +1,15 @@
+{
+  "name": "jf-borneo-global",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/preview.mjs",
+    "test": "node --test --test-isolation=none tests/*.test.mjs",
+    "deploy": "npm run build && wrangler deploy",
+    "preview:worker": "npm run build && wrangler dev"
+  },
+  "engines": {"node": ">=24"},
+  "devDependencies": {"wrangler": "^4.0.0"}
+}

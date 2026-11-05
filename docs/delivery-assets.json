@@ -1,0 +1,141 @@
+[
+  {
+    "file": "01-welding-photo.jpg",
+    "bytes": 162423,
+    "method": "Original JPEG bytes preserved; smaller than a lossless WebP transcode",
+    "source": "outputs\\tiktok-covers\\01-welding-photo.jpg"
+  },
+  {
+    "file": "02-steel-fabrication.jpg",
+    "bytes": 103608,
+    "method": "Original JPEG bytes preserved; smaller than a lossless WebP transcode",
+    "source": "outputs\\tiktok-covers\\02-steel-fabrication.jpg"
+  },
+  {
+    "file": "03-workshop.jpg",
+    "bytes": 78083,
+    "method": "Original JPEG bytes preserved; smaller than a lossless WebP transcode",
+    "source": "outputs\\tiktok-covers\\03-workshop.jpg"
+  },
+  {
+    "file": "04-work-activity.jpg",
+    "bytes": 43069,
+    "method": "Original JPEG bytes preserved; smaller than a lossless WebP transcode",
+    "source": "outputs\\tiktok-covers\\04-work-activity.jpg"
+  },
+  {
+    "file": "05-team-lineup.jpg",
+    "bytes": 109079,
+    "method": "Original JPEG bytes preserved; smaller than a lossless WebP transcode",
+    "source": "outputs\\tiktok-covers\\05-team-lineup.jpg"
+  },
+  {
+    "file": "06-workforce-gathering.jpg",
+    "bytes": 75120,
+    "method": "Original JPEG bytes preserved; smaller than a lossless WebP transcode",
+    "source": "outputs\\tiktok-covers\\06-workforce-gathering.jpg"
+  },
+  {
+    "file": "07-team.jpg",
+    "bytes": 72232,
+    "method": "Original JPEG bytes preserved; smaller than a lossless WebP transcode",
+    "source": "outputs\\tiktok-covers\\07-team.jpg"
+  },
+  {
+    "file": "08-mobilisation.jpg",
+    "bytes": 56484,
+    "method": "Original JPEG bytes preserved; smaller than a lossless WebP transcode",
+    "source": "outputs\\tiktok-covers\\08-mobilisation.jpg"
+  },
+  {
+    "file": "09-samalaju.jpg",
+    "bytes": 197790,
+    "method": "Original JPEG bytes preserved; smaller than a lossless WebP transcode",
+    "source": "outputs\\tiktok-covers\\09-samalaju.jpg"
+  },
+  {
+    "file": "10-site.jpg",
+    "bytes": 109146,
+    "method": "Original JPEG bytes preserved; smaller than a lossless WebP transcode",
+    "source": "outputs\\tiktok-covers\\10-site.jpg"
+  },
+  {
+    "file": "12-site-update.jpg",
+    "bytes": 126552,
+    "method": "Original JPEG bytes preserved; smaller than a lossless WebP transcode",
+    "source": "outputs\\tiktok-covers\\12-site-update.jpg"
+  },
+  {
+    "file": "company-meeting.jpg",
+    "bytes": 38089,
+    "method": "Original JPEG bytes preserved; smaller than a lossless WebP transcode",
+    "source": "outputs\\corporate-ocean-pages\\replacement-photos\\company-meeting.jpg"
+  },
+  {
+    "file": "company-site-briefing.jpg",
+    "bytes": 61110,
+    "method": "Original JPEG bytes preserved; smaller than a lossless WebP transcode",
+    "source": "outputs\\corporate-ocean-pages\\replacement-photos\\company-site-briefing.jpg"
+  },
+  {
+    "file": "manpower-industrial-pipework.jpg",
+    "bytes": 128588,
+    "method": "Original JPEG bytes preserved; smaller than a lossless WebP transcode",
+    "source": "outputs\\corporate-ocean-pages\\replacement-photos\\manpower-industrial-pipework.jpg"
+  },
+  {
+    "file": "manpower-onshore-site.jpg",
+    "bytes": 77317,
+    "method": "Original JPEG bytes preserved; smaller than a lossless WebP transcode",
+    "source": "outputs\\corporate-ocean-pages\\replacement-photos\\manpower-onshore-site.jpg"
+  },
+  {
+    "file": "brand-globe.webp",
+    "bytes": 68366,
+    "width": 256,
+    "height": 256,
+    "method": "Responsive display-sized raster; lossless WebP compression after resampling. Full-resolution master retained in asset source pack."
+  },
+  {
+    "file": "icon-offshore.webp",
+    "bytes": 34750,
+    "width": 384,
+    "height": 365,
+    "method": "Responsive display-sized raster; lossless WebP compression after resampling. Full-resolution master retained in asset source pack."
+  },
+  {
+    "file": "icon-onshore.webp",
+    "bytes": 27212,
+    "width": 384,
+    "height": 369,
+    "method": "Responsive display-sized raster; lossless WebP compression after resampling. Full-resolution master retained in asset source pack."
+  },
+  {
+    "file": "icon-construction.webp",
+    "bytes": 38180,
+    "width": 384,
+    "height": 366,
+    "method": "Responsive display-sized raster; lossless WebP compression after resampling. Full-resolution master retained in asset source pack."
+  },
+  {
+    "file": "ocean-network.webp",
+    "bytes": 726742,
+    "width": 2172,
+    "height": 724,
+    "method": "Lossless WebP; generated or extracted asset"
+  },
+  {
+    "file": "construction-work.webp",
+    "bytes": 92430,
+    "width": 405,
+    "height": 231,
+    "method": "Lossless WebP; generated or extracted asset"
+  },
+  {
+    "file": "social-preview.webp",
+    "bytes": 601078,
+    "width": 1058,
+    "height": 555,
+    "method": "Lossless WebP; generated or extracted asset"
+  }
+]

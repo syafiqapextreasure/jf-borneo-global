@@ -1,0 +1,26 @@
+PHOTO REVISION — 6 November 2026
+
+Use 01-company-v2.png and 02-manpower-v2.png as the current Company and Manpower designs. They replace four photographs repeated from the homepage. The approved homepage, Updates, Contact and Gallery designs are unchanged.
+
+Company hero: outdoor site briefing, fluorescent safety vests and hard hats.
+Original file: replacement-photos/company-site-briefing.jpg
+Source: https://www.tiktok.com/@jfborneoglobal/photo/7691893653240892692
+
+Company secondary image: meeting around conference tables with cyan blinds.
+Original file: replacement-photos/company-meeting.jpg
+Source: https://www.tiktok.com/@jfborneoglobal/photo/7670832321725025556
+
+Manpower offshore-section image: workers among yellow industrial pipework.
+Original file: replacement-photos/manpower-industrial-pipework.jpg
+Source: https://www.tiktok.com/@jfborneoglobal/photo/7670895016222526740
+This scene illustrates industrial workforce activity. The source caption does not independently establish its exact location or ownership.
+
+Manpower onshore-section image: workers at scaffolded formwork.
+Original file: replacement-photos/manpower-onshore-site.jpg
+Source: https://www.tiktok.com/@jfborneoglobal/photo/7686531137061031188
+
+All four source photographs were freshly downloaded from the supplied TikTok profile during this revision. None of these four appears on the approved homepage. Source files were copied without AI editing. The two revised UI mockups were created with built-in ImageGen; its rendered photos are interpretations of the supplied source photographs. For the website build, insert the original image files directly.
+
+The revised mockups were visually checked: the original posed team lineup, seated welder and vessel image are absent from the two revised pages. Layout, headings, contact details and theme remain consistent.
+
+Prompts: photo-revision-prompts.json.

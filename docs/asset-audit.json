@@ -1,0 +1,162 @@
+[
+  {
+    "file": "01-welding-photo.webp",
+    "width": 720,
+    "height": 889,
+    "bytes": 456368,
+    "source": "tiktok-covers\\01-welding-photo.jpg",
+    "compression": "lossless WebP; decoded pixels verified identical"
+  },
+  {
+    "file": "02-steel-fabrication.webp",
+    "width": 720,
+    "height": 405,
+    "bytes": 248114,
+    "source": "tiktok-covers\\02-steel-fabrication.jpg",
+    "compression": "lossless WebP; decoded pixels verified identical"
+  },
+  {
+    "file": "03-workshop.webp",
+    "width": 720,
+    "height": 405,
+    "bytes": 187346,
+    "source": "tiktok-covers\\03-workshop.jpg",
+    "compression": "lossless WebP; decoded pixels verified identical"
+  },
+  {
+    "file": "04-work-activity.webp",
+    "width": 405,
+    "height": 720,
+    "bytes": 97112,
+    "source": "tiktok-covers\\04-work-activity.jpg",
+    "compression": "lossless WebP; decoded pixels verified identical"
+  },
+  {
+    "file": "05-team-lineup.webp",
+    "width": 720,
+    "height": 544,
+    "bytes": 268712,
+    "source": "tiktok-covers\\05-team-lineup.jpg",
+    "compression": "lossless WebP; decoded pixels verified identical"
+  },
+  {
+    "file": "06-workforce-gathering.webp",
+    "width": 405,
+    "height": 720,
+    "bytes": 140538,
+    "source": "tiktok-covers\\06-workforce-gathering.jpg",
+    "compression": "lossless WebP; decoded pixels verified identical"
+  },
+  {
+    "file": "07-team.webp",
+    "width": 405,
+    "height": 720,
+    "bytes": 155278,
+    "source": "tiktok-covers\\07-team.jpg",
+    "compression": "lossless WebP; decoded pixels verified identical"
+  },
+  {
+    "file": "08-mobilisation.webp",
+    "width": 360,
+    "height": 640,
+    "bytes": 159724,
+    "source": "tiktok-covers\\08-mobilisation.jpg",
+    "compression": "lossless WebP; decoded pixels verified identical"
+  },
+  {
+    "file": "09-samalaju.webp",
+    "width": 720,
+    "height": 960,
+    "bytes": 437538,
+    "source": "tiktok-covers\\09-samalaju.jpg",
+    "compression": "lossless WebP; decoded pixels verified identical"
+  },
+  {
+    "file": "10-site.webp",
+    "width": 720,
+    "height": 567,
+    "bytes": 287996,
+    "source": "tiktok-covers\\10-site.jpg",
+    "compression": "lossless WebP; decoded pixels verified identical"
+  },
+  {
+    "file": "12-site-update.webp",
+    "width": 720,
+    "height": 550,
+    "bytes": 295066,
+    "source": "tiktok-covers\\12-site-update.jpg",
+    "compression": "lossless WebP; decoded pixels verified identical"
+  },
+  {
+    "file": "company-meeting.webp",
+    "width": 720,
+    "height": 360,
+    "bytes": 206264,
+    "source": "corporate-ocean-pages\\replacement-photos\\company-meeting.jpg",
+    "compression": "lossless WebP; decoded pixels verified identical"
+  },
+  {
+    "file": "company-site-briefing.webp",
+    "width": 720,
+    "height": 483,
+    "bytes": 328206,
+    "source": "corporate-ocean-pages\\replacement-photos\\company-site-briefing.jpg",
+    "compression": "lossless WebP; decoded pixels verified identical"
+  },
+  {
+    "file": "manpower-industrial-pipework.webp",
+    "width": 720,
+    "height": 961,
+    "bytes": 816734,
+    "source": "corporate-ocean-pages\\replacement-photos\\manpower-industrial-pipework.jpg",
+    "compression": "lossless WebP; decoded pixels verified identical"
+  },
+  {
+    "file": "manpower-onshore-site.webp",
+    "width": 720,
+    "height": 533,
+    "bytes": 372728,
+    "source": "corporate-ocean-pages\\replacement-photos\\manpower-onshore-site.jpg",
+    "compression": "lossless WebP; decoded pixels verified identical"
+  },
+  {
+    "file": "ocean-network.webp",
+    "width": 2172,
+    "height": 724,
+    "bytes": 726742,
+    "source": "exec-13aa9ce5-b6d8-4ca3-b107-d8faa96fe74d.png",
+    "compression": "lossless WebP; decoded pixels verified identical"
+  },
+  {
+    "file": "icon-offshore.webp",
+    "width": 707,
+    "height": 672,
+    "bytes": 85394,
+    "source": "ImageGen icon sheet; exact alpha crop",
+    "compression": "lossless WebP; decoded pixels verified identical"
+  },
+  {
+    "file": "icon-onshore.webp",
+    "width": 724,
+    "height": 695,
+    "bytes": 63560,
+    "source": "ImageGen icon sheet; exact alpha crop",
+    "compression": "lossless WebP; decoded pixels verified identical"
+  },
+  {
+    "file": "icon-construction.webp",
+    "width": 708,
+    "height": 675,
+    "bytes": 86644,
+    "source": "ImageGen icon sheet; exact alpha crop",
+    "compression": "lossless WebP; decoded pixels verified identical"
+  },
+  {
+    "file": "brand-globe.webp",
+    "width": 666,
+    "height": 666,
+    "bytes": 254382,
+    "source": "supplied original-logo.png; circular globe extraction",
+    "compression": "lossless WebP; decoded pixels verified identical"
+  }
+]
