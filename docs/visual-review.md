@@ -31,6 +31,6 @@ The delivered website is a close responsive interpretation, not a pixel-identica
 
 ## Deployment validation
 
-Local static build and browser preview succeeded. Local Wrangler dry-run could not execute because the Windows sandbox rejects its esbuild subprocess (`spawn EPERM`). The repository includes an Ubuntu GitHub Actions job that runs npm ci, build, tests and Wrangler dry-run. Check the Actions result before production deployment.
+Local static build and browser preview succeeded. Local Wrangler dry-run could not execute because the Windows sandbox rejects its esbuild subprocess (`spawn EPERM`). The repository includes an Ubuntu GitHub Actions job that runs npm ci, build, tests and Wrangler dry-run. The first GitHub Actions run passed all stages, including the Cloudflare Worker dry-run: https://github.com/syafiqapextreasure/jf-borneo-global/actions/runs/42080972331.
 
 No Cloudflare production deployment was performed; the owner requested repository delivery for their own installation.
